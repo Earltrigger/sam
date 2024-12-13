@@ -23,7 +23,6 @@ if (age >=20) {
 else{
     console.log( " you are Elegible " + Name );
 }
-
 let myVariable = "Hello, World"
 let myNames = "Kelvin Bryan"
 let Variable = "Web Developer"
@@ -37,3 +36,9 @@ let Variablee = "Realator"
 let Statee = "Delta State"
 
 console.log(` ${myVariables}  My name is  ${myNamess}  i am a  ${Variablee}  and i am from  ${Statee}`)
+
+
+
+for (let a = 0; a <= 100; a ++) {
+    console.log(a);
+}
