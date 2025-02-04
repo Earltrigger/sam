@@ -7,6 +7,9 @@ input[type=text], [type=tel], [type=password], select {
     border-radius: 4px;
     box-sizing: border-box;
   }
+.me{
+  color: #2196F3;
+}
   
   input[type=submit] {
     width: 20%;
@@ -187,3 +190,4 @@ input[type=text], [type=tel], [type=password], select {
     filter: blur(3px);
     opacity: 0.5;
   } */    
+   
